@@ -1,2 +1,2 @@
 # class-13-examples
-examples from class 13
+example of using a remote repository
